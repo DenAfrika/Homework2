@@ -11,6 +11,8 @@ namespace Ex1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Выполнил: Чернышев Денис");
+            Console.WriteLine();
             min();
             getLengthNum();
             getSumOddNum();
