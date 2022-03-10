@@ -1,0 +1,6 @@
+D:\Denchik\VS\Homework2\SimpleHelperProgram\bin\Debug\SimpleHelperProgram.dll
+D:\Denchik\VS\Homework2\SimpleHelperProgram\bin\Debug\SimpleHelperProgram.pdb
+D:\Denchik\VS\Homework2\SimpleHelperProgram\obj\Debug\Chernyshev.csproj.AssemblyReference.cache
+D:\Denchik\VS\Homework2\SimpleHelperProgram\obj\Debug\Chernyshev.csproj.CoreCompileInputs.cache
+D:\Denchik\VS\Homework2\SimpleHelperProgram\obj\Debug\SimpleHelperProgram.dll
+D:\Denchik\VS\Homework2\SimpleHelperProgram\obj\Debug\SimpleHelperProgram.pdb
